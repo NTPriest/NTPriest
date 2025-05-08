@@ -3,5 +3,5 @@
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee" />
   </a>
   &nbsp;&nbsp;
-  <img src="rsz_2hellyeahguy.jpg" alt="Avatar" height="auto" style="vertical-align: middle;" />
+  <img src="rsz_2hellyeahguy.jpg" alt="Avatar" height="auto" " />
 </p>
