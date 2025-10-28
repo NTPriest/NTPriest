@@ -1,1 +1,1 @@
-## rise and shine mr freeman...Rise..and..shine
+## Rise and shine Mr.Freeman...Rise..And..Shine
